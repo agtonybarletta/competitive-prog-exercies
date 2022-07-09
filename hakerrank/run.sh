@@ -1,0 +1,1 @@
+OUTPUT_PATH=output.txt; ./a.out < input.txt
